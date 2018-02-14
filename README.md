@@ -8,9 +8,9 @@
 // Initialize Firebase
 // TODO: Replace with your project's customized code snippet
 var config = {    
-    apiKey: "AIzaSyBPweAHcP4em0PYh8XWzEqjNhTk3OBNS5I",<br>
-   authDomain: "dashboard-dev-8b843.firebaseapp.com",  <br>
-   databaseURL: "https://dashboard-dev-8b843.firebaseio.com", <br>
+    apiKey: "AIzaSyBPweAHcP4em0PYh8XWzEqjNhTk3OBNS5I",
+   authDomain: "dashboard-dev-8b843.firebaseapp.com", 
+   databaseURL: "https://dashboard-dev-8b843.firebaseio.com", 
    projectId: "dashboard-dev-8b843",  
    storageBucket: "dashboard-dev-8b843.appspot.com",  
    messagingSenderId: "264557605189" 
